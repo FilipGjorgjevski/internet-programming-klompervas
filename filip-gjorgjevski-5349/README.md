@@ -23,8 +23,8 @@ The application will run on `http://localhost:4200/`
 ## API Configuration
 
 This template is pre-configured to work with the Movie Database API.
-
-**API Base URL:** `https://ip-exam-g12.onrender.com`
+this is the api I got:filip-gjorgjevski-5349-aspf8fd2cyky-33fb49
+**API Base URL:** `https://ip-exam-g12.onrender.com/`
 
 You will need to:
 
